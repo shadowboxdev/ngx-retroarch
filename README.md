@@ -50,6 +50,13 @@ The following attributes can be set on ngx-retroarch:
 | genesis_plus_gx  | Genesis      |
 
 
+
+## Product vision
+
+A full product blueprint for evolving this project into a high-performance, cross-platform emulator front end is available here:
+
+- [Retro Emulator Front-End Blueprint](docs/retro-frontend-blueprint.md)
+
 ## Source code
 
 1. Download code and install dependencies
